@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://clavium.codeberg.page"
+base_url = "https://clavia-lang.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
